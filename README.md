@@ -1,4 +1,4 @@
-1. Please install necessary packages as needed.
+1. Please install the necessary packages as needed.
 
 2. Create AWS access key and secret key in your AWS Profile and paste them in the secrets.toml file
 
